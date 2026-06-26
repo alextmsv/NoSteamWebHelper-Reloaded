@@ -1,0 +1,16 @@
+# Build artifacts (root)
+/Library.obj
+/State.obj
+/no-st-webhelper.dll
+/umpdc.dll
+
+# Build output
+build/
+
+# IDE
+.vs/
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
